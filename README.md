@@ -1,4 +1,4 @@
-# Saurav Ganguly - @SauravGanguly
+# Saurav Ganguly - <a href="https://github.com/SauravGanguly">@SauravGanguly</a>
 I am Computer Science Engineering student from Kalinga University.
 <p align="center">
   <img src="https://github.com/SauravGanguly/SauravGanguly/blob/master/dino.gif">
