@@ -1,16 +1,19 @@
-### Hi there 👋
+# Saurav Ganguly - @SauravGanguly
+I am Computer Science Engineering student from Kalinga University.
+<p align="center">
+  <img src="https://github.com/SauravGanguly/SauravGanguly/blob/master/dino.gif">
+</p>
 
-<!--
-**SauravGanguly/SauravGanguly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on Computer Vision <br>
+🌱 I’m currently learning Computer Vision <br>
+⚡ Fun fact:
+    * Worked on 5 projects.
+    * written 2.5 loc.
+    * Python lover
+## Get in touch
+<p align="left">
+	<a href="https://github.com/SauravGanguly"><img src="https://img.shields.io/github/followers/SauravGanguly?label=Follow&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/saurav_ganguly"><img src="https://img.shields.io/twitter/follow/saurav__ganguly?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/gangulysaurav"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.sauravganguly.in"><img src="https://img.shields.io/badge/Website-sauravganguly.in-blue" alt="Website"></a>
+</p>
