@@ -7,9 +7,10 @@ I am Computer Science Engineering student from Kalinga University.
 🔭 I’m currently working on Computer Vision <br>
 🌱 I’m currently learning Computer Vision <br>
 ⚡ Fun fact:
-    * Worked on 5 projects.
-    * written 2.5 loc.
-    * Python lover
+* Worked on 5 projects.
+* Written 2.5 loc.
+* Python lover
+    
 ## Get in touch
 <p align="left">
 	<a href="https://github.com/SauravGanguly"><img src="https://img.shields.io/github/followers/SauravGanguly?label=Follow&style=social" alt="GitHub"></a>
