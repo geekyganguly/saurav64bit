@@ -20,8 +20,8 @@
 
 ## Get in touch
 <p align="left">
-	<a href="https://github.com/64bitSaurav"><img src="https://img.shields.io/github/followers/SauravGanguly?label=Follow&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/64bitSaurav"><img src="https://img.shields.io/twitter/follow/saurav__ganguly?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://github.com/64bitSaurav"><img src="https://img.shields.io/github/followers/64bitSaurav?label=Follow&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/64bitSaurav"><img src="https://img.shields.io/twitter/follow/64bitSaurav?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/64bitsaurav"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   	<a href="https://www.sauravganguly.in"><img src="https://img.shields.io/badge/Website-sauravganguly.in-blue" alt="Website"></a>
 </p>
