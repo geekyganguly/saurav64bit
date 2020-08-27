@@ -16,23 +16,23 @@
 * Python lover
 
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=SauravGanguly&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[!Saurav](https://github-readme-stats.vercel.app/api?username=64bitSaurav&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ## Get in touch
 <p align="left">
-	<a href="https://github.com/SauravGanguly"><img src="https://img.shields.io/github/followers/SauravGanguly?label=Follow&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/saurav__ganguly"><img src="https://img.shields.io/twitter/follow/saurav__ganguly?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/gangulysaurav"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/64bitSaurav"><img src="https://img.shields.io/github/followers/SauravGanguly?label=Follow&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/64bitSaurav"><img src="https://img.shields.io/twitter/follow/saurav__ganguly?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/64bitsaurav"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   	<a href="https://www.sauravganguly.in"><img src="https://img.shields.io/badge/Website-sauravganguly.in-blue" alt="Website"></a>
 </p>
 
 <!--
 <p align="left">
-	<a href="https://twitter.com/saurav__ganguly">
-		<img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+	<a href="https://twitter.com/64bitSaurav">
+		<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 	</a>
-	<a href="https://www.linkedin.com/in/gangulysaurav/">
+	<a href="https://www.linkedin.com/in/64bitsaurav">
 		<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 	</a>
 	<a href="https://t.me/sauravganguly">
