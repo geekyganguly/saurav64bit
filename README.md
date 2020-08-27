@@ -16,7 +16,7 @@
 * Python lover
 
 
-[Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=64bitSaurav&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![64bitSaurav](https://github-readme-stats.vercel.app/api?username=64bitSaurav&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/64bitSaurav)
 
 ## Get in touch
 <p align="left">
