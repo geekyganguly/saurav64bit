@@ -16,26 +16,26 @@
 * Python lover
 
 
-[![64bitSaurav](https://github-readme-stats.vercel.app/api?username=64bitSaurav&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/64bitSaurav)
+[![saurav64bit](https://github-readme-stats.vercel.app/api?username=saurav64bit&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/saurav64bit)
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=64bitSaurav&layout=compact&hide=java&hide_title=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurav64bit&layout=compact&hide=java&hide_title=true"/>
 </p>
 
 ## Get in touch
 <p align="left">
-	<a href="https://github.com/64bitSaurav"><img src="https://img.shields.io/github/followers/64bitSaurav?label=Follow&style=social" alt="GitHub"></a>
-	<a href="https://twitter.com/64bitSaurav"><img src="https://img.shields.io/twitter/follow/64bitSaurav?label=Twitter&style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/64bitsaurav"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/saurav64bit"><img src="https://img.shields.io/github/followers/saurav64bit?label=Follow&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/saurav64bit"><img src="https://img.shields.io/twitter/follow/saurav64bit?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/saurav64bit"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   	<a href="https://www.sauravganguly.in"><img src="https://img.shields.io/badge/Website-sauravganguly.in-blue" alt="Website"></a>
 </p>
 
 <!--
 <p align="left">
-	<a href="https://twitter.com/64bitSaurav">
+	<a href="https://twitter.com/saurav64bit">
 		<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 	</a>
-	<a href="https://www.linkedin.com/in/64bitsaurav">
+	<a href="https://www.linkedin.com/in/saurav64bit">
 		<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 	</a>
 	<a href="https://t.me/sauravganguly">
