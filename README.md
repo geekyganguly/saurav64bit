@@ -8,11 +8,11 @@
   <img src="https://github.com/SauravGanguly/SauravGanguly/blob/master/dino.gif">
 </p>
 
-🔭 I’m currently working on Computer Vision <br>
-🌱 I’m currently learning Computer Vision <br>
+📚I’m currently learning ReactJS <br>
+
 ⚡ Fun fact:
 * Worked on 5 projects.
-* Written 2.5 loc.
+* Written 5 kloc.
 * Python lover
 
 
