@@ -8,7 +8,7 @@
   <img src="https://github.com/SauravGanguly/SauravGanguly/blob/master/dino.gif">
 </p>
 
-📚 I’m currently learning ReactJS <br>
+📚 I’m currently learning VueJS <br>
 
 ⚡ Fun fact:
 * Worked on 5 projects.
